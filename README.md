@@ -187,8 +187,13 @@ This project uses the **Olympic Historical Dataset (1896–2016)**, containing d
 -  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinesh-barri-7654b010b)
 ---
 
-&nbsp;📜 License
+ ## 📜 License
 
-    This project is released under the Apache License.
-    
+This project is licensed under the **Apache License 2.0** - see the [LICENSE](LICENSE) file for complete details.
+
+**Apache License 2.0 © 2025 Dinesh Barri**
+
+---
+
+*Free to use for personal and commercial projects. Attribution appreciated but not required.*
 
