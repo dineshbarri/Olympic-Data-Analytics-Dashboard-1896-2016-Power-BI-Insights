@@ -158,6 +158,7 @@ This project uses the **Olympic Historical Dataset (1896–2016)**, containing d
 ┣ 📁 Dataset/
     ┗ athletes.csv
 ┣ 📊 Olympic_Analysis.pbix
+┣ 📊 olympic_games_analysis.sql
 ┣ 📁 images/
     ┗ preview.csv
 ┣ 📄 README.md
